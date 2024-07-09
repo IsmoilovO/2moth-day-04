@@ -1,0 +1,44 @@
+.service__title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #3d3d3f;
+    margin-bottom: 53px;
+
+}
+
+.service__subtitle{
+    font-weight: 700;
+    font-size: 36px;
+    color: #3d3d3f;
+
+}
+
+.service__text{
+    font-weight: 400;
+font-size: 24px;
+color: #3d3d3f;
+}
+
+.service__line{
+    text-align: center;
+    border-right: 2px solid rgba(235, 235, 235, 0.8);
+}
+
+.service__list{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid rgba(235, 235, 235, 0.8);
+    border-radius: 17px;
+    padding: 41px 67px 56px 67px;
+    text-align: center;
+    
+}
+
+.service{
+    padding-top: 124px;
+    text-align: center;
+}
+
+
+
+
